@@ -27,7 +27,7 @@
 ## 3.0 System Architecture
 ![image](https://user-images.githubusercontent.com/118992897/208306540-452c343e-ef65-4bf8-8bc6-0605ac401598.png)
 
-##<a name="algorithm"/>
+<a name="algorithm"/>
 ## 4.0 Algorithm
 
  - STM32CubeIDE \- advanced C/C++ development platform with peripheral configuration, code generation, code compilation, and debug features for STM32
