@@ -6,11 +6,11 @@
 
 <br>
 
-[1.0 Previous works](#Previous works)
+[1.0 Previous works](#Previous-works)
 <br>
 [2.0 Use Cases](#Use Cases)
 <br>
-[3.0 System Architecture ](#System Architecture)
+[3.0 System Architecture](#System Architecture)
 <br>
 [4.0 Algorithm](#Algorithm)
 
