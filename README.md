@@ -6,9 +6,9 @@
 
 <br>
 
-[1.0 Previous works](#10-introduction)
+[1.0 Previous works](#introduction)
 <br>
-[2.0 Use Cases](#20-Use-Cases)
+[2.0 Use Cases](#Use-Cases)
 <br>
 [3.0 System Architecture ](#System-Architecture)
 <br>
