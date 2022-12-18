@@ -35,7 +35,9 @@
 <br>
 ## 4.0 Algorithm
  - STM32CubeIDE - advanced C/C++ development platform with peripheral configuration, code generation, code compilation, and debug features for STM32
+ - 
  - Edge Impulse - machine learning platform
+ - 
  - STM32Cube.AI - used to convert pre-trained neural networks into optimized code for STM32 microcontrollers
 
 
