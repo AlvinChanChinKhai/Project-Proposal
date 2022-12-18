@@ -34,6 +34,7 @@
 
 <br>
 ## 4.0 Algorithm
+
  - STM32CubeIDE \- advanced C/C++ development platform with peripheral configuration, code generation, code compilation, and debug features for STM32
  
  - Edge Impulse \- machine learning platform
