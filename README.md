@@ -24,7 +24,6 @@
  - It may also help children and visually impaired people in classifying fruits.
  - Helps to improve supermarket grocery self-checkouts.
 
-<b name="algorithm"/>
 ## 3.0 System Architecture
 ![image](https://user-images.githubusercontent.com/118992897/208306540-452c343e-ef65-4bf8-8bc6-0605ac401598.png)
 
