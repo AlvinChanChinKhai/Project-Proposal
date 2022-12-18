@@ -19,7 +19,7 @@
 
 ## 1.0 Previous works
  - [High performance vegetable classification from images based on AlexNet deep learning model](https://ijabe.org/index.php/ijabe/article/view/2690/pdf)
- - [Improved Classification Approach for Fruits and Vegetables Freshness Based on Deep Learning] (https://www.mdpi.com/1424-8220/22/21/8192/pdf)
+ - [Improved Classification Approach for Fruits and Vegetables Freshness Based on Deep Learning](https://www.mdpi.com/1424-8220/22/21/8192/pdf)
  - 
 
 ## 2.0 Use Cases
@@ -34,11 +34,11 @@
 
 <br>
 ## 4.0 Algorithm
- - STM32CubeIDE - advanced C/C++ development platform with peripheral configuration, code generation, code compilation, and debug features for STM32
- - 
- - Edge Impulse - machine learning platform
- - 
- - STM32Cube.AI - used to convert pre-trained neural networks into optimized code for STM32 microcontrollers
+ - STM32CubeIDE \- advanced C/C++ development platform with peripheral configuration, code generation, code compilation, and debug features for STM32
+ 
+ - Edge Impulse \- machine learning platform
+ 
+ - STM32Cube.AI \- used to convert pre-trained neural networks into optimized code for STM32 microcontrollers
 
 
 
