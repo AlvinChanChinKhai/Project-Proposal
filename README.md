@@ -10,7 +10,7 @@
 <br>
 [2.0 Use Cases](#Use-Cases)
 <br>
-[3.0 System Architecture](#3.0-system-architecture)
+[3.0 System Architecture](#system-architecture)
 <br>
 [4.0 Algorithm](#algorithm)
 
@@ -24,6 +24,7 @@
  - It may also help children and visually impaired people in classifying fruits.
  - Helps to improve supermarket grocery self-checkouts.
 
+<a name="system-architecture"/></a>
 ## 3.0 System Architecture
 ![image](https://user-images.githubusercontent.com/118992897/208306540-452c343e-ef65-4bf8-8bc6-0605ac401598.png)
 
