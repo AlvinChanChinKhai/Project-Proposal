@@ -7,7 +7,7 @@
 <br>
 
 [1.0 Previous works](#10-introduction)
-[2.0 Use Cases](#Use-Cases)
+[2.0 Use Cases](#20-Use-Cases)
 [3.0 System Architecture ](#System-Architecture)
 [4.0 Algorithm](#Algorithm)
 
