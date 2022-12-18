@@ -12,7 +12,7 @@
 <br>
 [3.0 System Architecture](#System-Architecture)
 <br>
-[4.0 Algorithm](#40-algorithm)
+[4.0 Algorithm](#4.0-algorithm)
 
 
 ## 1.0 Previous works
