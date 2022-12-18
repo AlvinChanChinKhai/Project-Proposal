@@ -19,7 +19,7 @@
 ## 2.0 Use Cases
 <br>
 ## 3.0 System Architecture
-<br><br><br><br>
+<br>
 ## 4.0 4.0 Algorithm
 
 
