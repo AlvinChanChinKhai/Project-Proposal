@@ -10,9 +10,9 @@
 <br>
 [2.0 Use Cases](#Use-Cases)
 <br>
-[3.0 System Architecture](#System-Architecture)
+[3.0 System Architecture](#3.0-system-architecture)
 <br>
-[4.0 Algorithm](#4.0-algorithm)
+[4.0 Algorithm](#algorithm)
 
 
 ## 1.0 Previous works
