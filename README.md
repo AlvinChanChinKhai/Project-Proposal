@@ -12,7 +12,7 @@
 <br>
 [3.0 System Architecture](#System-Architecture)
 <br>
-[4.0 Algorithm](#algorithm)
+[4.0 Algorithm](#40-algorithm)
 
 
 ## 1.0 Previous works
@@ -25,7 +25,6 @@
  - Helps to improve supermarket grocery self-checkouts.
 
 
-<a name="System-Architecture"/>
 ## 3.0 System Architecture
 ![image](https://user-images.githubusercontent.com/118992897/208306540-452c343e-ef65-4bf8-8bc6-0605ac401598.png)
 
