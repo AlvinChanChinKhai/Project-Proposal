@@ -21,7 +21,7 @@
  - [Improved Classification Approach for Fruits and Vegetables Freshness Based on Deep Learning](https://www.mdpi.com/1424-8220/22/21/8192/pdf)
  
 ## 2.0 Use Cases
- - It can be used in the vegetable industries for non-destructive quality assessment technique, sorting and robotic harvesting.
+ - It can be used in the vegetable industries for non-destructive sorting and robotic harvesting.
  - It may also help children and visually impaired people in classifying fruits.
  - Helps to improve supermarket grocery self-checkouts.
       
