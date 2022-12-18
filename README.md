@@ -18,7 +18,7 @@
 
 
 ## 1.0 Previous works
-> asdassd
+ - [High performance vegetable classification from images based on AlexNet deep learning model](https://ijabe.org/index.php/ijabe/article/view/2690/pdf)
 
 ## 2.0 Use Cases
 as
